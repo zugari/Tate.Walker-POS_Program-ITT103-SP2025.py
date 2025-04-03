@@ -3,7 +3,7 @@ Date Created: March 3, 2025
 Course: ITT103
 GitHub Public URL to Code: 
 Javian Tate: https://github.com/jtate20246840/Best-Buy-POS_Program-.git
-Omari Walker: 
+Omari Walker: https://github.com/zugari/Tate.Walker-POS_Program-ITT103-SP2025.py.git
 
 
 BESTBUY POINT OF SALE SYSTEM FUNCTIONALITIES
